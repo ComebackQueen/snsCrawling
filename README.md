@@ -47,44 +47,15 @@
 
 ## Results
 
-### 초기화면
+### 실행화면
+
+![sns](https://user-images.githubusercontent.com/87848564/160561670-e2c9bd8f-f03f-451f-b99e-e46fc6e6851d.gif)
 
 
 
 
 
 
+### DB현황
 
-### 통합검색
-
-- **검색화면**
-
-![search](../ComebackQueen.github.io/assets/images/README/160345008-9507d89b-6886-4cf9-b582-6ddffd7abf8f.gif)
-
-
-- **상세정보**
-
-![detail](../ComebackQueen.github.io/assets/images/README/160346907-bbc63645-3286-41b2-9d22-4ebe906442d1.gif)
-
-
-
-
-
-### 내일로 노트 Step 1
-
-![Step1](../ComebackQueen.github.io/assets/images/README/160348912-4370dacd-1d66-4c41-a9ec-a9d8f3a96167.gif)
-
-
-
-### 내일로 노트 Step 2
-
-![Step2](../ComebackQueen.github.io/assets/images/README/160349114-a0893e2b-8092-4495-b017-e48247e55e9b.gif)
-
-
-
-### 내 주변
-
-![map](../ComebackQueen.github.io/assets/images/README/160349614-cc11df13-a32b-4e94-bf43-487cad13b9ae.jpeg)
-
-
-![detail](../ComebackQueen.github.io/assets/images/README/160349885-d8c22438-0dd4-434a-85b0-b65dd1a4616e.jpeg)
+![sns2](https://user-images.githubusercontent.com/87848564/160561755-d5f9fbab-08fd-4253-a4ce-67c9f483b870.JPG)
